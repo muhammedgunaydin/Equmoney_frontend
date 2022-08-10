@@ -20,11 +20,11 @@ For the project backend click [here](https://github.com/muhammedgunaydin/Equmone
     cd Equmoney_frontend
   ```
   
-  - To load the npm packages
+- To load the npm packages
   ```bash
     npm install
   ```
-  - Run project with emulator
+- Run project with emulator
   ```bash
     npx react-native run-android
   ```
